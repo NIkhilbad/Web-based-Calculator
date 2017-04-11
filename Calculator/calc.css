@@ -1,0 +1,49 @@
+.container {
+  background-color: grey;
+  width: 400px;
+  height: 600px;
+  position: relative;
+  left: 550px;
+}
+
+#display {
+  width: 80%;
+  height: 5%;
+  background-color: lightblue;
+  position: relative;
+  top: 35px;
+  left: 40px;
+}
+
+#solution {
+  width: 80%;
+  height: 5%;
+  background-color: lightblue;
+  position: relative;
+  top: 35px;
+  left: 40px;
+}
+
+#clear, #delete {
+  width: 70px;
+  height: 70px;
+  background-color: red;
+  border-color: red;
+  border-radius: 7px;
+}
+
+.button {
+  width: 70px;
+  height: 70px;
+  border-radius: 7px;
+}
+
+#layout {
+  position: relative;
+  top: 90px;
+  left: 54px;
+}
+
+body {
+	background-color:lightgreen; 
+}
